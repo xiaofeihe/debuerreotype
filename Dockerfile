@@ -1,5 +1,5 @@
 # docker run --cap-add SYS_ADMIN --cap-drop SETFCAP --tmpfs /tmp:dev,exec,suid,noatime ...
-# 测试一下。
+# 测试一下 构建
 # bootstrapping a new architecture?
 #   ./scripts/debuerreotype-init /tmp/docker-rootfs buster now
 #   ./scripts/debuerreotype-minimizing-config /tmp/docker-rootfs
